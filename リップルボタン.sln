@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "リップルボタン", "リップルボタン\リップルボタン.csproj", "{502E6A4C-8B00-4720-B0B2-1115EC5F6877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502E6A4C-8B00-4720-B0B2-1115EC5F6877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502E6A4C-8B00-4720-B0B2-1115EC5F6877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502E6A4C-8B00-4720-B0B2-1115EC5F6877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502E6A4C-8B00-4720-B0B2-1115EC5F6877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C193680D-95A9-45F5-855F-9D29B822850C}
+	EndGlobalSection
+EndGlobal
